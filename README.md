@@ -1,3 +1,7 @@
+# PLEASE DO NOT REPORT ISSUES TO THIS REPOSITORY. 
+### This reposetory is currently only acting as an archive, please refer to the [discord server](https://discord.kohara.xyz/) for support and bug reports.
+
+
 ![Stellarity](https://i.imgur.com/ikwYA2D.png)
 
 <br>
